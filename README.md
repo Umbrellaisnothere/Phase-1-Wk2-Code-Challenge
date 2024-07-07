@@ -8,7 +8,7 @@
 
 In this program, you will be using __ShopIT__. 
 
-This is an app / webpage, the user can: 
+This is an app/webpage, the user can: 
 - add items to their list. 
 - edit existing list items and clear the list.
 
@@ -21,13 +21,13 @@ You should work through all the planning steps before you start doing any coding
 ### Instructions
 ---
 
-In order to use the webpage;
+In-order to use the webpage;
 - Fork the repository provided 
 ```https://github.com/Umbrellaisnothere/Phase-1-Wk2-Code-Challenge.git```
 - Create a new / feature branch.
 - Make the appropriate changes in the files.
-- Make changes in order to commit to the changes made.
-- Commit your changes (git commit -m 'changes commited')
+- Make changes in-order to commit to the changes made.
+- Commit your changes (git commit -m 'changes 'commited')
 - Push to the branch (git push origin).
 - Create a Pull Request......and then you are done! 🥳🫡👏🏽
 
@@ -50,3 +50,4 @@ I used the Visual Studio Code (VS Code) editor to write the _**HTML**_, _**CSS**
 ---
 
 - [Keith Murimi](https://github.com/Umbrellaisnothere)
+- You can use the site here     [SHOPIT](https://umbrellaisnothere.github.io/Phase-1-Wk2-Code-Challenge/)
