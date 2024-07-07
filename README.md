@@ -22,8 +22,9 @@ You should work through all the planning steps before you start doing any coding
 ---
 
 In order to use the webpage;
-- Fork the repository provided.
-- Create a new/feature branch.
+- Fork the repository provided 
+```https://github.com/Umbrellaisnothere/Phase-1-Wk2-Code-Challenge.git```
+- Create a new / feature branch.
 - Make the appropriate changes in the files.
 - Make changes in order to commit to the changes made.
 - Commit your changes (git commit -m 'changes commited')
@@ -36,7 +37,7 @@ In order to use the webpage;
 
 - **Clear List**: The user can click the "Clear List" button to remove all items from the list.
 
--**Edit**: The user can select an item from the list using the "Edit" button and make necessary changes (usually if the user had a misstypo, or keyed in the wrongitem).
+- **Edit**: The user can select an item from the list using the "Edit" button and make necessary changes (usually if the user had a misstypo, or keyed in the wrongitem).
 
 ### Acknowledges
 
